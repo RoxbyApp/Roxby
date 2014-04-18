@@ -1,0 +1,21 @@
+﻿/*
+    this is the main file which imports all other files
+ */
+/*
+    import eric meyers css.reset
+ */
+@import url("http://meyerweb.com/eric/tools/css/reset/reset.css");
+/*
+    variables
+ */
+/* layout */
+/* fonts */
+/* layout */
+/* fonts */
+body {
+  font-family: "segoe ui", san-serif; }
+
+.client {
+  width: 920px; }
+
+/*# sourceMappingURL=app.css.map */

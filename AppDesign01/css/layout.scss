@@ -1,0 +1,11 @@
+﻿@import "parameters.scss";
+
+body {
+    font: {
+        family: #{$fontfamily};
+    }
+}
+
+.client {
+    width: #{$canvasWidth};
+}

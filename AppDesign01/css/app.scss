@@ -1,0 +1,18 @@
+﻿
+/*
+    this is the main file which imports all other files
+ */
+
+
+/*
+    import eric meyers css.reset
+ */
+@import "http://meyerweb.com/eric/tools/css/reset/reset.css";
+
+/*
+    variables
+ */
+@import "parameters.scss";
+
+@import "layout.scss";
+
